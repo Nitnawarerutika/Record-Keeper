@@ -34,10 +34,10 @@
 
 
 
-        - Following image shows, when we log out from particular account it will pop up  message like shown in image .
+        - Following image shows, when user log out from particular account it will pop up  message like shown in image .
 
 ![IMG_20230901_215055 (1)](https://github.com/Nitnawarerutika/Record-Keeper/assets/130966188/64a03f5e-0c4d-40fc-bff6-c38c1dfda404)
 
-      - Following image shows, when we clicked on X it will delete the record and pop up the message like shown in image .
+      - Following image shows, when user clicked on X it will delete the record and pop up the message like shown in image .
       
 ![IMG_20230901_215141](https://github.com/Nitnawarerutika/Record-Keeper/assets/130966188/4e281ace-22b2-4c70-9fa8-15c0b4b84e3d)
