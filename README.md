@@ -27,7 +27,7 @@
 ![Capture4](https://github.com/Nitnawarerutika/Record-Keeper/assets/130966188/f2447f06-49b0-4bcb-9b75-2da8f03e8c60)
 
 4.Page when user is signed in - These page has user name at header, text area where user can add texts, X option to delete records, active/Inactive button and option to update record.
-(X option only delete same record set by logged in account)
+(X option only delete same record set by logged in user)
 
 ![Capture1](https://github.com/Nitnawarerutika/Record-Keeper/assets/130966188/30b3a20c-ca33-43e7-8db2-f6ec868dbaee)
 
