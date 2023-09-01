@@ -7,7 +7,7 @@
 
       3.npm start.
 
-* Open [http://127.0.0.1:8000/](http://127.0.0.1:8000/) to view it in your browser.
+* Open [http://127.0.0.1:8000](http://127.0.0.1:8000/) to view it in your browser.
 
 * Used <b>Node JS, MongoDB, Javascript, HTML </b> and <b> CSS </b> to build project.
 
