@@ -9,7 +9,7 @@
 
 * Open [http://127.0.0.1:8000](http://127.0.0.1:8000/) to view it in your browser.
 
-* Used <b>Node JS, MongoDB, Javascript, HTML </b> and <b> CSS </b> to build project.
+* Used <b>Node JS, MongoDB, Javascript, EJS , CSS </b> and <b> SCSS </b> to build project.
 
 * <b>Screenshots - </b>
 
